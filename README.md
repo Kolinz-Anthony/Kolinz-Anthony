@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kolinz-Anthony
-- 👀 I’m interested in software development and automation.
-- 🌱 I’m currently learning Python and C language.
+- 👋 Hi, I’m Collins Anthony
+- 👀 I’m interested in software development, automation and machine learning
+- 🌱 I’m currently learning Python, Java and C language.
 - 💞️ I’m looking to collaborate on projects involving coding, automation, or app development.
 - 📫 How to reach me: Praiztransjnr@gmail.com
 
